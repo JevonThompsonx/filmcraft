@@ -4,5 +4,5 @@ useDefault = true
 [allowlist]
 description = "GUI test fixture: key names such as Shift+ArrowLeft trip the generic-api-key rule"
 paths = [
-  '''^crates/ui-egui/tests/graphics_ui\.rs$''',
+  '''crates/ui-egui/tests/graphics_ui\.rs$''',
 ]
